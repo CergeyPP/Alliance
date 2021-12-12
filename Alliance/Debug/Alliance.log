@@ -1,0 +1,791 @@
+﻿  main.cpp
+D:\проекты\Alliance\Alliance\map.h(25,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(27,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(29,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(31,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(33,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(35,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(46,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(75,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(76,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(77,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\map.h(78,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(87,2): warning C4305: инициализация: усечение из "double" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(115,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(116,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(138,10): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(202,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(202,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(250,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(250,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(251,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(255,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(255,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(256,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(407,1): warning C4305: =: усечение из "unsigned int" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(411,1): warning C4305: =: усечение из "unsigned int" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(413,1): warning C4305: =: усечение из "unsigned int" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(419,1): warning C4305: =: усечение из "unsigned int" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(425,1): warning C4305: =: усечение из "int" в "float"
+D:\проекты\Alliance\Alliance\gameplay.h(618,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(658,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(722,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(766,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(839,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(926,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1021,148): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1023,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1067,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1092,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1098,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1193,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1207,9): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1285,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1322,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1322,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1340,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1346,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1432,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1440,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1461,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(1510,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1511,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1549,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1550,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1554,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1554,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1556,70): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1556,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1557,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1570,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1571,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1618,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1619,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1623,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1623,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1631,71): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1631,43): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1632,70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1646,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1647,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1679,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1679,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1684,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1685,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1705,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1706,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1710,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1710,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1713,70): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1713,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1726,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1727,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1767,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1768,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1772,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1772,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1774,70): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1774,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1796,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1797,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1824,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1855,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1860,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1879,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1880,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1908,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1937,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1942,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(1961,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1962,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(1989,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2018,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2023,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2046,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2047,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2074,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2103,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2108,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2131,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2132,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2159,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2188,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2193,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2220,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2221,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2248,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2283,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2288,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2315,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2316,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2344,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2387,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2392,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2415,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2416,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2460,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2487,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2492,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2519,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2520,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2548,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2593,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2598,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(2627,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2641,9): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2720,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2758,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2758,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2776,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2782,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2822,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2858,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2858,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(2876,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2882,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2912,9): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(2928,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(3012,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3050,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3050,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3068,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(3074,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(3105,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3106,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3134,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3288,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3387,148): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3389,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3494,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3610,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3791,147): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3793,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3951,150): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(3953,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4028,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4162,150): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4164,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4240,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4332,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4425,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(4430,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\gameplay.h(4478,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4497,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4497,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4499,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\gameplay.h(4514,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\gameplay.h(4520,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\server.h(48,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(49,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(50,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(51,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(167,28): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\server.h(168,28): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\server.h(191,48): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(193,103): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(193,76): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(195,79): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(197,99): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(197,78): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(197,57): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\server.h(260,24): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(41,46): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(43,101): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(43,74): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(45,77): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(47,97): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(47,76): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\render.h(47,55): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(116,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(117,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(123,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(123,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(124,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(124,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(125,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(126,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(181,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(200,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(224,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(232,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(234,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(265,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(301,2): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+D:\проекты\Alliance\Alliance\main.cpp(313,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(313,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(326,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(326,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(338,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(338,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(350,220): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(350,157): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(350,94): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(355,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(355,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(364,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(368,149): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(368,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(369,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(369,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(385,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(395,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(404,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(414,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(414,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(415,69): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(415,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(428,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(428,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(435,57): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(436,44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(520,44): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(576,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(597,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(634,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(647,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(648,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(650,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(664,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(665,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(667,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(681,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(682,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(684,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(699,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(700,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(702,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(717,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(718,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(738,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(760,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(760,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(769,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(769,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(774,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(774,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(784,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(784,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(789,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(790,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(790,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(800,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(800,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(801,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(816,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(817,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(827,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(827,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(839,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(891,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(891,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(896,42): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(897,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(897,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(907,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(907,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(908,42): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(918,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(918,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(919,42): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(933,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(955,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(970,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(977,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1004,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1004,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1009,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1010,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1010,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1020,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1020,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1025,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1025,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1026,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1036,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1036,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1041,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1041,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1042,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1052,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1052,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1062,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1089,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1104,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1111,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1140,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1140,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1145,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1146,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1146,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1156,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1156,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1161,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1161,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1162,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1172,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1172,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1177,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1177,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1178,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1188,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1188,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1198,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1225,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1240,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1247,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1267,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1274,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1274,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1311,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1332,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1345,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1346,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1348,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1362,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1363,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1365,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1379,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1380,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1382,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1404,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1404,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1540,17): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1540,57): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1540,103): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1540,144): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1547,22): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1547,62): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1547,108): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1547,149): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1622,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1622,44): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1626,72): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1626,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1633,72): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1633,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1644,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1644,54): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1644,100): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1644,141): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1649,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1656,67): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1656,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1659,72): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1659,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1675,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1675,54): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1675,100): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1675,141): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1680,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1704,17): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1704,51): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1708,17): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1708,51): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1721,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1721,44): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1726,81): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1726,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1743,29): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1744,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1744,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1761,38): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1777,38): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1813,17): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1813,53): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1813,95): warning C4018: >: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1813,132): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1827,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1827,44): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1846,64): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1846,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\проекты\Alliance\Alliance\main.cpp(1889,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1890,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1892,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты\Alliance\Alliance\main.cpp(1907,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\проекты\Alliance\Alliance\main.cpp(1907,10): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Alliance.vcxproj -> D:\проекты\Alliance\Debug\Alliance.exe
